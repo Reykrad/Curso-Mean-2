@@ -1,0 +1,19 @@
+{
+  "name": "curso-mean2",
+  "version": "1.0.0",
+  "description": "Proyecto de API Rest con NodeJS para el curso de Victor Robles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reykrad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reykrad/Curso-Mean-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reykrad/Curso-Mean-2/issues"
+  },
+  "homepage": "https://github.com/Reykrad/Curso-Mean-2#readme"
+}
